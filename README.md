@@ -15,6 +15,10 @@ There the references are also available in RIS format for easy format conversion
 ## Installing the library
 ### From the SQL dump
 
+#### Restore the dump
+
+#### Create indexes
+
 ### From the class-library extension
 
 ## Using the library
@@ -34,7 +38,7 @@ Jupyter notebook
 hello world
 ```
 
-### RIS
+### RIS reference format
 ```
 hello world
 ```
