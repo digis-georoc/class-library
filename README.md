@@ -1,8 +1,6 @@
 # GEOROC's classification library
 *A geochemical classification diagram library for SQL databases written natively in PostgreSQL using PostGIS.*
 
-*By M. K. Traun and L. Alfke*
-
 ## The library content
 What is the library and what is in it.
 ### Class_library schema
