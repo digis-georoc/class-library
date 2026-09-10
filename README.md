@@ -20,6 +20,7 @@ There the references are also available in RIS format for easy format conversion
 #### Create indexes
 
 ### From the class-library extension
+Coming soon...
 
 ## Using the library
 ### Classification of samples demo
@@ -30,8 +31,9 @@ Jupyter notebook
 
 ## References
 - Our poster presentation at GeoMinBochum 2026.
-- Our paper
+- Our paper when sublished
 - Geoplotters.com
+- GEOROC precomplied file Aleutian Arc
 
 ### BibTeX reference format
 ```
