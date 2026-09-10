@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "tas_test",
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Plutonic_label": "Alkalic Gabbro", "Volcanic_label": "Basalt" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 45.0, 2.0 ], [ 45.0, 5.0 ], [ 52.0, 5.0 ], [ 45.0, 2.0 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "Plutonic_label": "Diorite", "Volcanic_label": "Andesite" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 57.0, 0.0 ], [ 57.0, 5.9 ], [ 63.0, 7.0 ], [ 63.0, 0.0 ], [ 57.0, 0.0 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "Plutonic_label": "Foid Gabbro", "Volcanic_label": "Basanite/Tephrite" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 41.0, 3.0 ], [ 41.0, 7.0 ], [ 45.0, 9.4 ], [ 49.4, 7.3 ], [ 45.0, 5.0 ], [ 45.0, 3.0 ], [ 41.0, 3.0 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 4, "Plutonic_label": "Foid Monzodiorite", "Volcanic_label": "Phonolitic Tephrite" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 49.4, 7.3 ], [ 45.0, 9.4 ], [ 48.4, 11.5 ], [ 53.0, 9.3 ], [ 49.4, 7.3 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 5, "Plutonic_label": "Foid Monzosyenite", "Volcanic_label": "Tephritic Phonolite" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 53.0, 9.3 ], [ 48.4, 11.5 ], [ 52.5, 14.0 ], [ 57.6, 11.7 ], [ 53.0, 9.3 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 6, "Plutonic_label": "Foid Syenite", "Volcanic_label": "Phonolite" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 52.5, 14.0 ], [ 52.5, 18.0 ], [ 57.0, 18.0 ], [ 63.0, 16.2 ], [ 61.0, 13.5 ], [ 57.6, 11.7 ], [ 52.5, 14.0 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 7, "Plutonic_label": "Foidolite", "Volcanic_label": "Foidite" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 41.0, 3.0 ], [ 37.0, 3.0 ], [ 35.0, 9.0 ], [ 37.0, 14.0 ], [ 52.5, 18.0 ], [ 52.5, 14.0 ], [ 48.4, 11.5 ], [ 45.0, 9.4 ], [ 41.0, 7.0 ], [ 41.0, 3.0 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 8, "Plutonic_label": "Gabbrodiorite", "Volcanic_label": "Basaltic Andesite" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 52.0, 0.0 ], [ 52.0, 5.0 ], [ 57.0, 5.9 ], [ 57.0, 0.0 ], [ 52.0, 0.0 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 9, "Plutonic_label": "Granite", "Volcanic_label": "Rhyolite" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 77.3, 0.0 ], [ 69.0, 8.0 ], [ 71.8, 13.5 ], [ 85.9, 6.8 ], [ 87.5, 4.7 ], [ 77.3, 0.0 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 10, "Plutonic_label": "Granodiorite", "Volcanic_label": "Dacite" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 63.0, 0.0 ], [ 63.0, 7.0 ], [ 69.0, 8.0 ], [ 77.3, 0.0 ], [ 63.0, 0.0 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 11, "Plutonic_label": "Monzodiorite", "Volcanic_label": "Basaltic Trachyandesite" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 52.0, 5.0 ], [ 49.4, 7.3 ], [ 53.0, 9.3 ], [ 57.0, 5.9 ], [ 52.0, 5.0 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 12, "Plutonic_label": "Monzogabbro", "Volcanic_label": "Trachybasalt" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 45.0, 5.0 ], [ 49.4, 7.3 ], [ 52.0, 5.0 ], [ 45.0, 5.0 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 13, "Plutonic_label": "Monzonite", "Volcanic_label": "Trachyandesite" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 57.0, 5.9 ], [ 53.0, 9.3 ], [ 57.6, 11.7 ], [ 61.0, 8.6 ], [ 63.0, 7.0 ], [ 57.0, 5.9 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 14, "Plutonic_label": "Peridotgabbro", "Volcanic_label": "Picrobasalt" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 41.0, 0.0 ], [ 41.0, 3.0 ], [ 45.0, 3.0 ], [ 45.0, 0.0 ], [ 41.0, 0.0 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 15, "Plutonic_label": "Quartz Monzonite", "Volcanic_label": "Trachyte" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 63.0, 7.0 ], [ 61.0, 8.6 ], [ 71.8, 13.5 ], [ 69.0, 8.0 ], [ 63.0, 7.0 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 16, "Plutonic_label": "subalkalic Gabbro", "Volcanic_label": "Basalt" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 45.0, 0.0 ], [ 45.0, 2.0 ], [ 52.0, 5.0 ], [ 52.0, 0.0 ], [ 45.0, 0.0 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 17, "Plutonic_label": "Syenite", "Volcanic_label": "Trachyte" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 61.0, 8.6 ], [ 57.6, 11.7 ], [ 61.0, 13.5 ], [ 63.0, 16.2 ], [ 71.8, 13.5 ], [ 61.0, 8.6 ] ] ] } }
+]
+}
