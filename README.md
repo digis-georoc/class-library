@@ -13,6 +13,14 @@ Cite the original diagram references included in the citation table.
 There the references are also available in RIS format for easy format conversion through reference managers (e.g. Zotero).
 
 ## Installing the library
+### *Important Requirements!*
+The classification library uses the PostGIS extension to make the geometries for the diagrams and the classification functions (which uses geometric intercepts).
+The library assumes PostGIS is already installed, if not most Postgres installations come with the PostGIS extention, and it can be activated using this SQL command within a Postgres database:
+```
+CREATE EXTENSION postgis;
+```
+The classification library was first written under Postgres version 18.1 and PostGIS version 3.6.0.
+
 ### From the SQL dump
 
 #### Restore the dump
@@ -34,6 +42,8 @@ Jupyter notebook
 - Our paper when sublished
 - Geoplotters.com
 - GEOROC precomplied file Aleutian Arc
+- Postgres
+- PostGIS
 
 ### BibTeX reference format
 ```
