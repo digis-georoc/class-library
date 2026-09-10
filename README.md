@@ -7,7 +7,9 @@ What is the library and what is in it.
 
 ### Citing the library
 Cite our work!
+
 Cite the original diagram references included in the citation table. 
+
 There the references are also available in RIS format for easy format conversion through reference managers (e.g. Zotero).
 
 ## Installing the library
@@ -23,6 +25,6 @@ Jupyter notebook
 Jupyter notebook
 
 ## References
-Our poster presentation at GeoMinBochum 2026.
-Our paper
-Geoplotters.com
+- Our poster presentation at GeoMinBochum 2026.
+- Our paper
+- Geoplotters.com
