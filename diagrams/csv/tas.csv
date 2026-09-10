@@ -1,0 +1,91 @@
+plutonic_label,volcanic_label,sio2_plutonic,alkali_plutonic
+Peridotgabbro,Picrobasalt,41.0,0.0
+Peridotgabbro,Picrobasalt,41.0,3.0
+Peridotgabbro,Picrobasalt,45.0,3.0
+Peridotgabbro,Picrobasalt,45.0,0.0
+subalkalic Gabbro,Basalt,45.0,0.0
+subalkalic Gabbro,Basalt,45.0,2.0
+subalkalic Gabbro,Basalt,52.0,5.0
+subalkalic Gabbro,Basalt,52.0,0.0
+Gabbrodiorite,Basaltic Andesite,52.0,0.0
+Gabbrodiorite,Basaltic Andesite,52.0,5.0
+Gabbrodiorite,Basaltic Andesite,57.0,5.9
+Gabbrodiorite,Basaltic Andesite,57.0,0.0
+Diorite,Andesite,57.0,0.0
+Diorite,Andesite,57.0,5.9
+Diorite,Andesite,63.0,7.0
+Diorite,Andesite,63.0,0.0
+Granodiorite,Dacite,63.0,0.0
+Granodiorite,Dacite,63.0,7.0
+Granodiorite,Dacite,69.0,8.0
+Granodiorite,Dacite,77.3,0.0
+Granite,Rhyolite,77.3,0.0
+Granite,Rhyolite,69.0,8.0
+Granite,Rhyolite,71.8,13.5
+Granite,Rhyolite,85.9,6.8
+Granite,Rhyolite,87.5,4.7
+Granite,Rhyolite,77.3,0.0
+Foid Gabbro,Basanite/Tephrite,41.0,3.0
+Foid Gabbro,Basanite/Tephrite,41.0,7.0
+Foid Gabbro,Basanite/Tephrite,45.0,9.4
+Foid Gabbro,Basanite/Tephrite,49.4,7.3
+Foid Gabbro,Basanite/Tephrite,45.0,5.0
+Foid Gabbro,Basanite/Tephrite,45.0,3.0
+Foid Gabbro,Basanite/Tephrite,41.0,3.0
+Monzogabbro,Trachybasalt,45.0,5.0
+Monzogabbro,Trachybasalt,49.4,7.3
+Monzogabbro,Trachybasalt,52.0,5.0
+Monzogabbro,Trachybasalt,45.0,5.0
+Monzodiorite,Basaltic Trachyandesite,52.0,5.0
+Monzodiorite,Basaltic Trachyandesite,49.4,7.3
+Monzodiorite,Basaltic Trachyandesite,53.0,9.3
+Monzodiorite,Basaltic Trachyandesite,57.0,5.9
+Monzodiorite,Basaltic Trachyandesite,52.0,5.0
+Monzonite,Trachyandesite,57.0,5.9
+Monzonite,Trachyandesite,53.0,9.3
+Monzonite,Trachyandesite,57.6,11.7
+Monzonite,Trachyandesite,61.0,8.6
+Monzonite,Trachyandesite,63.0,7.0
+Monzonite,Trachyandesite,57.0,5.9
+Foidolite,Foidite,41.0,3.0
+Foidolite,Foidite,37.0,3.0
+Foidolite,Foidite,35.0,9.0
+Foidolite,Foidite,37.0,14.0
+Foidolite,Foidite,52.5,18.0
+Foidolite,Foidite,52.5,14.0
+Foidolite,Foidite,48.4,11.5
+Foidolite,Foidite,45.0,9.4
+Foidolite,Foidite,41.0,7.0
+Foidolite,Foidite,41.0,3.0
+Foid Monzodiorite,Phonolitic Tephrite,49.4,7.3
+Foid Monzodiorite,Phonolitic Tephrite,45.0,9.4
+Foid Monzodiorite,Phonolitic Tephrite,48.4,11.5
+Foid Monzodiorite,Phonolitic Tephrite,53.0,9.3
+Foid Monzodiorite,Phonolitic Tephrite,49.4,7.3
+Foid Monzosyenite,Tephritic Phonolite,53.0,9.3
+Foid Monzosyenite,Tephritic Phonolite,48.4,11.5
+Foid Monzosyenite,Tephritic Phonolite,52.5,14.0
+Foid Monzosyenite,Tephritic Phonolite,57.6,11.7
+Foid Monzosyenite,Tephritic Phonolite,53.0,9.3
+Foid Syenite,Phonolite,52.5,14.0
+Foid Syenite,Phonolite,52.5,18.0
+Foid Syenite,Phonolite,57.0,18.0
+Foid Syenite,Phonolite,63.0,16.2
+Foid Syenite,Phonolite,61.0,13.5
+Foid Syenite,Phonolite,57.6,11.7
+Foid Syenite,Phonolite,52.5,14.0
+Syenite,Trachyte,61.0,8.6
+Syenite,Trachyte,57.6,11.7
+Syenite,Trachyte,61.0,13.5
+Syenite,Trachyte,63.0,16.2
+Syenite,Trachyte,71.8,13.5
+Syenite,Trachyte,61.0,8.6
+Quartz Monzonite,Trachyte,63.0,7.0
+Quartz Monzonite,Trachyte,61.0,8.6
+Quartz Monzonite,Trachyte,71.8,13.5
+Quartz Monzonite,Trachyte,69.0,8.0
+Quartz Monzonite,Trachyte,63.0,7.0
+Alkalic Gabbro,Basalt,45.0,2.0
+Alkalic Gabbro,Basalt,45.0,5.0
+Alkalic Gabbro,Basalt,52.0,5.0
+Alkalic Gabbro,Basalt,45.0,2.0
