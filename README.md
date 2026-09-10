@@ -28,3 +28,13 @@ Jupyter notebook
 - Our poster presentation at GeoMinBochum 2026.
 - Our paper
 - Geoplotters.com
+
+### BibTeX reference format
+```
+hello world
+```
+
+### RIS
+```
+hello world
+```
