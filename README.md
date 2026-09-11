@@ -11,10 +11,10 @@ What is the library and what is in it.
 If using the geochemical citation library, you should cite our work as given here (code and publication):
 
 
-The references are also provided in BibTeX and RIS format in the reference list below.
+The references are also provided in BibTeX and RIS (reference information system) format in the reference list below.
 
 Furthermore, you should cite the original diagram references included in the citation table. 
-The original references are also available in the *citation_tableØ in RIS format (*citation_table.ris* column) for easy format conversion through reference managers (e.g. Zotero).
+The original references are also available in the *citation_table* in RIS format (*citation_table.ris* column) for easy format conversion through reference managers (e.g. Zotero).
 
 ## Installing the library
 ### *Important Requirements!*
