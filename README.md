@@ -4,7 +4,7 @@
 ## The library content
 What is the library and what is in it.
 
-### Class_library schema
+### *Class_library* schema
 
 
 ### Citing the library
@@ -14,7 +14,7 @@ If using the geochemical citation library, you should cite our work as given her
 The references are also provided in BibTeX and RIS format in the reference list below.
 
 Furthermore, you should cite the original diagram references included in the citation table. 
-The original references are also available in the citation_table in RIS format (citation_table.ris column) for easy format conversion through reference managers (e.g. Zotero).
+The original references are also available in the *citation_tableØ in RIS format (*citation_table.ris* column) for easy format conversion through reference managers (e.g. Zotero).
 
 ## Installing the library
 ### *Important Requirements!*
@@ -26,7 +26,7 @@ CREATE EXTENSION postgis;
 The classification library was first written under Postgres version 18.1 and PostGIS version 3.6.0.
 
 ### From the SQL dump
-To install the classification library, you have to restore the *class_library_dump.sql* within a postgres database. For example from the pgAdmin 4 GUI, right click on the database, select "Restore..." and navigate to the dump file.
+To install the classification library, you have to download and then restore the *class_library_dump.sql* file within a postgres database. For example from the pgAdmin 4 GUI, right click on the database, select "Restore..." and navigate to the dump file.
 
 The restore procedure constructs the *class_library* schema within your postgres database, and thus assumes such a schema does not already exist. If it does, you might get an error and we recommend to delete the old schema prior to a restore installation.
 
