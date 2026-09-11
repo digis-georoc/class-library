@@ -1,0 +1,392 @@
+"diagram_name","title","pub_year","ris","citation_short","url","pid","pid_type","accessedutc"
+"tas_geom","A Chemical Classification of Volcanic Rocks Based on the Total Alkali-Silica Diagram",1986,"TY  - JOUR
+AU  - BAS, M. J. LE
+AU  - MAITRE, R. W. LE
+AU  - STRECKEISEN, A.
+AU  - ZANETTIN, B.
+AU  - IUGS Subcommission on the Systematics of Igneous Rocks
+T1  - A Chemical Classification of Volcanic Rocks Based on the Total Alkali-Silica Diagram
+PY  - 1986
+Y1  - 1986/06/01
+DO  - 10.1093/petrology/27.3.745
+JO  - Journal of Petrology
+JA  - J Petrology
+VL  - 27
+IS  - 3
+SP  - 745
+EP  - 750
+SN  - 0022-3530
+AB  - This contribution summarizes and brings up to date the recommendations made by the IUGS Subcommission on the Systematics of Igneous Rocks for the classification of volcanic rocks when modal analyses are lacking. The classification is on a non-genetic basis using the total alkali-silica (TAS) diagram, and is as nearly consistent as possible with the QAPF modal classification. The diagram is divided into 15 fields, two of which contain two root names which are separated according to other chemical criteria, giving the following 17 root names: basalt, basaltic andesite, andesite, dacite, rhyolite, trachybasalt, basaltic trachyandesite, trachyandesite, trachyte, trachydacite, picrobasalt, basanite, tephrite, phonotephrite, tephriphonolite, phonolite and foidite. Using Na-K criteria, trachybasalt may be further divided into the sub-root names hawaiite and potassic trachybasalt, basaltic trachyandesite into the sub-root names mugearite and shoshonite, and trachyandesite into the sub-root names benmoreite and latite.
+Y2  - 3/4/2026
+UR  - https://doi.org/10.1093/petrology/27.3.745
+ER  - ","Le Bas et al. 1986","https://academic.oup.com/petrology/article-abstract/27/3/745/1497841","10.1093/petrology/27.3.745","doi","17-03-2026"
+"tas_geom","Naming materials in the magma/igneous rock system",1994,"TY  - JOUR
+T1  - Naming materials in the magma/igneous rock system
+AU  - Middlemost, Eric A.K.
+JO  - Earth-Science Reviews
+VL  - 37
+IS  - 3
+SP  - 215
+EP  - 224
+PY  - 1994
+DA  - 1994/12/01/
+SN  - 0012-8252
+DO  - https://doi.org/10.1016/0012-8252(94)90029-9
+UR  - https://www.sciencedirect.com/science/article/pii/0012825294900299
+AB  - The main aim of igneous petrology is to develop a complete specification of the magma/igneous rock system. This paper is a sequel to an earlier essay (Middlemost, 1991) on the classification of igneous rocks and magmas. It explores the ways and means of developing a single, consistent method of naming all igneous materials. All modal classifications are fettered by problems arising from heteromorphism, extremes in grain size, and the presence of glass. Only chemical parameters can provide a reliable and straightforward method of classifying all the common igneous rocks and their magmas. This is undoubtedly true of glassy rocks and magmas. The potential of the TAS diagram in this new and enlarged role is evaluated, resulting in a modification of some boundaries recommended for the volcanic rocks. A new comprehensive chemical classification of the plutonic rocks is introduced. To keep it and the volcanic classification in tandem, several new terms are proposed. They include gabbroic diorite as a plutonic equivalent of basaltic andesite and peridotgabbro as a plutonic equivalent of picrobasalt. Peridotite is defined as the plutonic equivalent of picrite and by taking the idea of equivalence a step further, it is defined as a peridotgabbroic or gabbroic rock that contains more than 18% MgO and less than 2% total alkalis. The picrobasaltic and basaltic rocks that contained more than 18% MgO and more than 2% (Na2O + K2O) are called alkalic picrites. Their plutonic equivalents are named alkalic peridotites. A benefit of this new chemical classification of plutonic rocks is that it enables one to avoid the awkward term ultramafic. A single classification that links magmas, plutonic and volcanic rocks should be appreciated by all geochemists and petrologists who amass, and manipulate, large geochemical databases but are unwilling, or unable, to carry out quantitative modal analyses. This classification also enables geoscientists to focus on magma — the most important concept in igneous petrology.
+ER  - ","Middlemost 1994","https://www.sciencedirect.com/science/article/abs/pii/0012825294900299","10.1016/0012-8252(94)90029-9","doi","09-08-2026"
+"ewart_1982_geom","The mineralogy and petrology of Tertiary-Recent orogenic volcanic rocks with special reference to the andesitic-basaltic compositional range",1982,"TY  - CHAP
+AU  - Ewart, A
+A2  - Thorpe, R S
+TI  - The Mineralogy and Petrology of Tertiary-Recent Orogenic Volcanic Rocks:
+      With a Special Reference to the Andesitic-Basaltic Compositional Range
+T2  - Andesites: Orogenic Andesites and Related Rocks
+SP  - 25-95
+PY  - 1982
+DA  - 1982
+CY  - Wiley, Chichester
+ER  - ","Ewart 1982",NULL,"978-0471280347","isbn","09-08-2026"
+"winchester_and_floyd_nby_sio2_geom","Geochemical discrimination of different magma series and their differentiation products using immobile elements",1977,"TY  - JOUR
+T1  - Geochemical discrimination of different magma series and their differentiation products using immobile elements
+AU  - Winchester, J.A.
+AU  - Floyd, P.A.
+JO  - Chemical Geology
+VL  - 20
+SP  - 325
+EP  - 343
+PY  - 1977
+DA  - 1977/01/01/
+SN  - 0009-2541
+DO  - https://doi.org/10.1016/0009-2541(77)90057-2
+UR  - https://www.sciencedirect.com/science/article/pii/0009254177900572
+AB  - The abundance and distribution of selected minor and trace elements (Ti, Zr, Y, Nb, Ce, Ga and Sc) in fresh volcanic rocks can be used to classify the differentiation products of subalkaline and alkaline magma series in a similar manner to methods using normative or major-element indices. A number of variation diagrams may be used to distinguish common volcanic rock types in terms of the above elements. As these elements are immobile during post-consolidation alteration and metamorphic processes, this method of rock-type classification may, when applied to metavolcanic rocks, prove more reliable than the commonly used methods that utilize major elements, some of which are known to be mobile.
+ER  - ","Winchester and Floyd 1977","https://www.sciencedirect.com/science/article/abs/pii/0009254177900572","10.1016/0009-2541(77)90057-2","doi","09-08-2026"
+"winchester_and_floyd_nby_zrtio2_geom","Geochemical discrimination of different magma series and their differentiation products using immobile elements",1977,"TY  - JOUR
+T1  - Geochemical discrimination of different magma series and their differentiation products using immobile elements
+AU  - Winchester, J.A.
+AU  - Floyd, P.A.
+JO  - Chemical Geology
+VL  - 20
+SP  - 325
+EP  - 343
+PY  - 1977
+DA  - 1977/01/01/
+SN  - 0009-2541
+DO  - https://doi.org/10.1016/0009-2541(77)90057-2
+UR  - https://www.sciencedirect.com/science/article/pii/0009254177900572
+AB  - The abundance and distribution of selected minor and trace elements (Ti, Zr, Y, Nb, Ce, Ga and Sc) in fresh volcanic rocks can be used to classify the differentiation products of subalkaline and alkaline magma series in a similar manner to methods using normative or major-element indices. A number of variation diagrams may be used to distinguish common volcanic rock types in terms of the above elements. As these elements are immobile during post-consolidation alteration and metamorphic processes, this method of rock-type classification may, when applied to metavolcanic rocks, prove more reliable than the commonly used methods that utilize major elements, some of which are known to be mobile.
+ER  - ","Winchester and Floyd 1977","https://www.sciencedirect.com/science/article/abs/pii/0009254177900572","10.1016/0009-2541(77)90057-2","doi","09-08-2026"
+"winchester_and_floyd_zrtio2_sio2_geom","Geochemical discrimination of different magma series and their differentiation products using immobile elements",1977,"TY  - JOUR
+T1  - Geochemical discrimination of different magma series and their differentiation products using immobile elements
+AU  - Winchester, J.A.
+AU  - Floyd, P.A.
+JO  - Chemical Geology
+VL  - 20
+SP  - 325
+EP  - 343
+PY  - 1977
+DA  - 1977/01/01/
+SN  - 0009-2541
+DO  - https://doi.org/10.1016/0009-2541(77)90057-2
+UR  - https://www.sciencedirect.com/science/article/pii/0009254177900572
+AB  - The abundance and distribution of selected minor and trace elements (Ti, Zr, Y, Nb, Ce, Ga and Sc) in fresh volcanic rocks can be used to classify the differentiation products of subalkaline and alkaline magma series in a similar manner to methods using normative or major-element indices. A number of variation diagrams may be used to distinguish common volcanic rock types in terms of the above elements. As these elements are immobile during post-consolidation alteration and metamorphic processes, this method of rock-type classification may, when applied to metavolcanic rocks, prove more reliable than the commonly used methods that utilize major elements, some of which are known to be mobile.
+ER  - ","Winchester and Floyd 1977","https://www.sciencedirect.com/science/article/abs/pii/0009254177900572","10.1016/0009-2541(77)90057-2","doi","09-08-2026"
+"hastie_geom","Classification of Altered Volcanic Island Arc Rocks using Immobile Trace Elements: Development of the Th–Co Discrimination Diagram",2007,"TY  - JOUR
+AU  - Hastie, A. R.
+AU  - Kerr, A. C.
+AU  - Pearce, J. A.
+AU  - Mitchell, S. F.
+T1  - Classification of Altered Volcanic Island Arc Rocks using Immobile Trace Elements: Development of the Th–Co Discrimination Diagram
+PY  - 2007
+Y1  - 2007/12/01
+DO  - 10.1093/petrology/egm062
+JO  - Journal of Petrology
+JA  - J Petrology
+VL  - 48
+IS  - 12
+SP  - 2341
+EP  - 2357
+SN  - 0022-3530
+AB  - Many diagrams conventionally used to classify igneous rocks utilize mobile elements, which commonly renders them unreliable for classifying rocks from the geological record. The K2O–SiO2 diagram, used to subdivide volcanic arc rocks into rock type (basalts, basaltic andesites, andesites, dacites and rhyolites) and volcanic series (tholeiitic, calc-alkaline, high-K calc-alkaline and shoshonitic), is particularly susceptible to the effects of alteration. However, by using Th as a proxy for K2O and Co as a proxy for SiO2 it is possible to construct a topologically similar diagram that performs the same task but is more robust for weathered and metamorphosed rocks. This study uses &gt;1000 carefully filtered Tertiary–Recent island arc samples to construct a Th–Co classification diagram. A ‘testing set’ comprising data not used in constructing the diagram indicates a classification success rate of c. 80%. When applied to some hydrothermally altered, then tropically weathered Cretaceous volcanic arc lavas from Jamaica, the diagram demonstrates the presence of a tholeiitic volcanic arc series dominated by intermediate–acid lavas overlain by a calc-alkaline series dominated by basic lavas.
+Y2  - 3/9/2026
+UR  - https://doi.org/10.1093/petrology/egm062
+ER  - ","Hastie et al. 2007","https://academic.oup.com/petrology/article/48/12/2341/1546993","10.1093/petrology/egm062","doi","09-08-2026"
+"hansen_y_sry_geom","Crustal melting in the lower parts of island arcs: an example from the Bremanger Granitoid Complex, west Norwegian Caledonides",2002,"TY  - JOUR
+AU  - Hansen, Jogvan
+AU  - Skjerlie, Kjell P.
+AU  - Pedersen, Rolf B.
+AU  - De La Rosa, Jesús
+PY  - 2002
+DA  - 2002/06/01
+TI  - Crustal melting in the lower parts of island arcs: an example from the Bremanger Granitoid Complex, west Norwegian Caledonides
+JO  - Contributions to Mineralogy and Petrology
+SP  - 316
+EP  - 335
+VL  - 143
+IS  - 3
+AB  - The 440±5 Ma Bremanger Granitoid Complex (BGC), west Norwegian Caledonides, comprises tonalites, granodiorites and minor granites. The BGC is coeval with a nearby subduction-related gabbronoritic/dioritic intrusion (the 443±4 Ma Gåsøy Intrusion) and an ophiolite complex generated in a back-arc basin (the 443±3 Ma Solund-Stavfjord Ophiolite Complex). The BGC has a restricted isotopic variation (?Nd440Ma=+0.04 to –2.21, 87Sr/86Sr440 Ma=0.7045 to 0.7054) indicating a substantial mantle component, but it is enriched in crustal material relative to the primitive parts of the gabbronoritic rocks of the Gåsøy Intrusion (?Nd440 Ma=+1.67, 87Sr/86Sr440 Ma=0.7048). The chondrite-normalised REE patterns are fractionated [(La/Yb)N ~8 to ~16], smooth or with negative or positive Eu anomalies. Geochemical modelling suggests that the BGC does not represent residual melts produced by fractional crystallisation of basic magma, but is compatible with partial melting of mafic source rocks with various amounts of H2O. Residual garnet is suggested by HREE depletion, indicating a minimum pressure of 9–10 kbar during melting.
+SN  - 1432-0967
+UR  - https://doi.org/10.1007/s00410-001-0342-5
+DO  - 10.1007/s00410-001-0342-5
+ID  - Hansen2002
+ER  - ","Hansen et al. 2002","https://link.springer.com/article/10.1007/s00410-001-0342-5#citeas","10.1007/s00410-001-0342-5","doi","09-08-2026"
+"hansen_yb_layb_geom","Crustal melting in the lower parts of island arcs: an example from the Bremanger Granitoid Complex, west Norwegian Caledonides",2002,"TY  - JOUR
+AU  - Hansen, Jogvan
+AU  - Skjerlie, Kjell P.
+AU  - Pedersen, Rolf B.
+AU  - De La Rosa, Jesús
+PY  - 2002
+DA  - 2002/06/01
+TI  - Crustal melting in the lower parts of island arcs: an example from the Bremanger Granitoid Complex, west Norwegian Caledonides
+JO  - Contributions to Mineralogy and Petrology
+SP  - 316
+EP  - 335
+VL  - 143
+IS  - 3
+AB  - The 440±5 Ma Bremanger Granitoid Complex (BGC), west Norwegian Caledonides, comprises tonalites, granodiorites and minor granites. The BGC is coeval with a nearby subduction-related gabbronoritic/dioritic intrusion (the 443±4 Ma Gåsøy Intrusion) and an ophiolite complex generated in a back-arc basin (the 443±3 Ma Solund-Stavfjord Ophiolite Complex). The BGC has a restricted isotopic variation (?Nd440Ma=+0.04 to –2.21, 87Sr/86Sr440 Ma=0.7045 to 0.7054) indicating a substantial mantle component, but it is enriched in crustal material relative to the primitive parts of the gabbronoritic rocks of the Gåsøy Intrusion (?Nd440 Ma=+1.67, 87Sr/86Sr440 Ma=0.7048). The chondrite-normalised REE patterns are fractionated [(La/Yb)N ~8 to ~16], smooth or with negative or positive Eu anomalies. Geochemical modelling suggests that the BGC does not represent residual melts produced by fractional crystallisation of basic magma, but is compatible with partial melting of mafic source rocks with various amounts of H2O. Residual garnet is suggested by HREE depletion, indicating a minimum pressure of 9–10 kbar during melting.
+SN  - 1432-0967
+UR  - https://doi.org/10.1007/s00410-001-0342-5
+DO  - 10.1007/s00410-001-0342-5
+ID  - Hansen2002
+ER  - ","Hansen et al. 2002","https://link.springer.com/article/10.1007/s00410-001-0342-5#citeas","10.1007/s00410-001-0342-5","doi","09-08-2026"
+"hollocher_layb_nbla_geom","Geochemistry of amphibolite-facies volcanics and gabbros of the Støren Nappe in extensions west and southwest of Trondheim, western gneiss region, Norway: A key to correlations and paleotectonic settings",2012,"TY  - JOUR
+AU  - Hollocher, Kurt
+AU  - Robinson, Peter
+AU  - Walsh, Emily
+AU  - Roberts, David
+PY  - 2012/04/01
+SP  - 357
+EP  - 416
+T1  - Geochemistry of amphibolite-facies volcanics and gabbros of the Støren Nappe in extensions west and southwest of Trondheim, Western Gneiss Region, Norway: a key to correlations and paleotectonic settings
+VL  - 312
+DO  - 10.2475/04.2012.01
+JO  - American Journal of Science
+ER  - ","Hollocher et al. 2012","https://ajsonline.org/article/61897-geochemistry-of-amphibolite-facies-volcanics-and-gabbros-of-the-storen-nappe-in-extensions-west-and-southwest-of-trondheim-western-gneiss-region-nor","10.2475/04.2012.01","doi","09-08-2026"
+"hollocher_layb_thnb_geom","Geochemistry of amphibolite-facies volcanics and gabbros of the Støren Nappe in extensions west and southwest of Trondheim, western gneiss region, Norway: A key to correlations and paleotectonic settings",2012,"TY  - JOUR
+AU  - Hollocher, Kurt
+AU  - Robinson, Peter
+AU  - Walsh, Emily
+AU  - Roberts, David
+PY  - 2012/04/01
+SP  - 357
+EP  - 416
+T1  - Geochemistry of amphibolite-facies volcanics and gabbros of the Støren Nappe in extensions west and southwest of Trondheim, Western Gneiss Region, Norway: a key to correlations and paleotectonic settings
+VL  - 312
+DO  - 10.2475/04.2012.01
+JO  - American Journal of Science
+ER  - ","Hollocher et al. 2012","https://ajsonline.org/article/61897-geochemistry-of-amphibolite-facies-volcanics-and-gabbros-of-the-storen-nappe-in-extensions-west-and-southwest-of-trondheim-western-gneiss-region-nor","10.2475/04.2012.01","doi","09-08-2026"
+"pearce_norry_geom","Petrogenetic Implications of Ti, Zr, Y, and Nb Variations in Volcanic Rocks",1979,"TY  - JOUR
+AU  - Pearce, Julian A.
+AU  - Norry, Michael J.
+PY  - 1979
+DA  - 1979/05/01
+TI  - Petrogenetic implications of Ti, Zr, Y, and Nb variations in volcanic rocks
+JO  - Contributions to Mineralogy and Petrology
+SP  - 33
+EP  - 47
+VL  - 69
+IS  - 1
+AB  - Data from experimental runs, coexisting phases in ultramafic rocks and phenocryst-matrix pairs in volcanic rocks have been used to compile a table of mineral-liquid distribution coefficients for Ti, Zr, Y, and Nb for basic, intermediate and acid melt compositions. These values have then been used to interpret variations of these elements, first in basalts and second, during fractional crystallization from basic to acid magmas. For basalts, petrogenetic modelling of Zr/Y, Zr/Ti, and Zr/Nb ratios, when used in conjunction with REE, Cr and isotopic variations, suggests that: (1) the increase in Zr/Y ratio from mid-ocean ridge to within plate basalts and the low Zr/Nb ratios of alkalic basalts are due to (fluid controlled) source heterogeneities; (2) the low Zr and Zr/Y ratio of volcanic arc basalts results from high degree of partial melting of a depleted source; and (3) the high Zr and similar Zr/Y ratio of basalts from fast spreading relative to slow spreading ridges results from open-system fractional crystallization. Modelling of fractionation trends in more evolved rocks using Y-Zr, Ti-Zr and Nb-Zr diagrams highlights in particular the change in crystallizing mafic phases from island arcs (clinopyroxene-dominated) to Andean-type arcs (amphibole±biotite-dominated). These methods can be applied to altered lavas of unknown affinities to provide additional information on their genesis and eruptive environment.
+SN  - 1432-0967
+UR  - https://doi.org/10.1007/BF00375192
+DO  - 10.1007/BF00375192
+ID  - Pearce1979
+ER  - ","Pearce and Norry 1979","https://link.springer.com/article/10.1007/BF00375192","10.1007/BF00375192","doi","28-04-2026"
+"pearce_1984_nby_rb_geom","Trace Element Discrimination Diagrams for the Tectonic Interpretation of Granitic Rocks",1984,"TY  - JOUR
+AU  - Pearce, Julian
+AU  - Harris, Nigel
+AU  - Tindle, A.
+PY  - 1984/11/01
+SP  - 956
+EP  - 983
+T1  - Trace Element Discrimination Diagrams for the Tectonic Interpretation of Granitic Rocks
+VL  - 25
+DO  - 10.1093/petrology/25.4.956
+JO  - Journal of Petrology
+ER  - ","Pearce et al. 1984","https://academic.oup.com/petrology/article-abstract/25/4/956/1386972","10.1093/petrology/25.4.956","doi","09-08-2026"
+"pearce_1984_y_nb_geom","Trace Element Discrimination Diagrams for the Tectonic Interpretation of Granitic Rocks",1984,"TY  - JOUR
+AU  - Pearce, Julian
+AU  - Harris, Nigel
+AU  - Tindle, A.
+PY  - 1984/11/01
+SP  - 956
+EP  - 983
+T1  - Trace Element Discrimination Diagrams for the Tectonic Interpretation of Granitic Rocks
+VL  - 25
+DO  - 10.1093/petrology/25.4.956
+JO  - Journal of Petrology
+ER  - ","Pearce et al. 1984","https://academic.oup.com/petrology/article-abstract/25/4/956/1386972","10.1093/petrology/25.4.956","doi","09-08-2026"
+"pearce_1984_yb_ta_geom","Trace Element Discrimination Diagrams for the Tectonic Interpretation of Granitic Rocks",1984,"TY  - JOUR
+AU  - Pearce, Julian
+AU  - Harris, Nigel
+AU  - Tindle, A.
+PY  - 1984/11/01
+SP  - 956
+EP  - 983
+T1  - Trace Element Discrimination Diagrams for the Tectonic Interpretation of Granitic Rocks
+VL  - 25
+DO  - 10.1093/petrology/25.4.956
+JO  - Journal of Petrology
+ER  - ","Pearce et al. 1984","https://academic.oup.com/petrology/article-abstract/25/4/956/1386972","10.1093/petrology/25.4.956","doi","09-08-2026"
+"pearce_geom","Role of the sub-continental lithosphere in magma genesis at active continental margins",1983,NULL,"Pearce 1983","https://orca.cardiff.ac.uk/id/eprint/8626/","978-0906812341","isbn","09-08-2026"
+"pearce_cann_ti_zr_y_geom","Tectonic setting of basic volcanic rocks determined using trace element analyses",1973,"TY  - JOUR
+T1  - Tectonic setting of basic volcanic rocks determined using trace element analyses
+AU  - Pearce, J.A.
+AU  - Cann, J.R.
+JO  - Earth and Planetary Science Letters
+VL  - 19
+IS  - 2
+SP  - 290
+EP  - 300
+PY  - 1973
+DA  - 1973/06/01/
+SN  - 0012-821X
+DO  - https://doi.org/10.1016/0012-821X(73)90129-5
+UR  - https://www.sciencedirect.com/science/article/pii/0012821X73901295
+AB  - Analyses for Ti, Zr, Y, Nb and Sr in over 200 basaltic rocks from different tectonic settings have been used to construct diagrams in which these settings can usually be identified. Basalts erupted within plates (ocean island and continental basalts) can be identified using a Ti-Zr-Y diagram, ocean-floor basalts, and low-potassium tholeiites and calc-alkali basalts from island arcs can be identified using a Ti-Zr diagram (for altered samples) and a Ti-Zr-Sr diagram (for fresh samples). Y/Nb is suggested as a parameter for indicating whether a basalt is of tholeiitic or alkalic nature. Analyses of dykes and pillow lavas from the Troodos Massif of Cyprus are plotted on these diagrams and appear to the tholeiitic ocean-floor rocks.
+ER  - ","Pearce and Cann 1973","https://www.sciencedirect.com/science/article/pii/0012821X73901295","10.1016/0012-821X(73)90129-5","doi","09-08-2026"
+"pearce_df_1_2_geom","Statistical Analysis of Major Element Patterns in Basalts",1976,"TY  - JOUR
+AU  - PEARCE, J. A.
+T1  - Statistical Analysis of Major Element Patterns in Basalts
+PY  - 1976
+Y1  - 1976/02/01
+DO  - 10.1093/petrology/17.1.15
+JO  - Journal of Petrology
+JA  - J Petrology
+VL  - 17
+IS  - 1
+SP  - 15
+EP  - 43
+SN  - 0022-3530
+AB  - Discriminant analysis enables basalts from different tectonic settings to be identified on the basis of their complete major element patterns. By using discriminant functions it is possible to represent visually the separation of six tectonically defined magma types in three dimensions instead of the original eight. Analysis of variance confirms that this separation is highly significant. Numerical classification is possible by applying Bayes' decision rule, using either normal distribution functions or empirical discriminant functions. Tests on known samples showed that ocean-floor basalts, low-potassium tholeiites (from island arcs), calc-alkali basalts and shoshonites (from volcanic arcs) and within-plate basalts could be correctly classified about 90 per cent of the time by all these methods. A subdivision of within-plate basalts into ocean island and continental basalts could not however be achieved chemically with any great success. Classification of weathered and metamorphosed ocean-floor basalts showed that alteration can greatly reduce the success rate of the classification. Application of the numerical and visual methods to lavas of ‘unknown’ tectonic settings (Archaean greenstones and high-potash basalts) mostly gave geologically consistent results.
+Y2  - 9/8/2026
+UR  - https://doi.org/10.1093/petrology/17.1.15
+ER  - 
+","Pearce 1976","https://academic.oup.com/petrology/article-abstract/17/1/15/1447006","10.1093/petrology/17.1.15","doi","09-08-2026"
+"pearce_df_2_3_geom","Statistical Analysis of Major Element Patterns in Basalts",1976,"TY  - JOUR
+AU  - PEARCE, J. A.
+T1  - Statistical Analysis of Major Element Patterns in Basalts
+PY  - 1976
+Y1  - 1976/02/01
+DO  - 10.1093/petrology/17.1.15
+JO  - Journal of Petrology
+JA  - J Petrology
+VL  - 17
+IS  - 1
+SP  - 15
+EP  - 43
+SN  - 0022-3530
+AB  - Discriminant analysis enables basalts from different tectonic settings to be identified on the basis of their complete major element patterns. By using discriminant functions it is possible to represent visually the separation of six tectonically defined magma types in three dimensions instead of the original eight. Analysis of variance confirms that this separation is highly significant. Numerical classification is possible by applying Bayes' decision rule, using either normal distribution functions or empirical discriminant functions. Tests on known samples showed that ocean-floor basalts, low-potassium tholeiites (from island arcs), calc-alkali basalts and shoshonites (from volcanic arcs) and within-plate basalts could be correctly classified about 90 per cent of the time by all these methods. A subdivision of within-plate basalts into ocean island and continental basalts could not however be achieved chemically with any great success. Classification of weathered and metamorphosed ocean-floor basalts showed that alteration can greatly reduce the success rate of the classification. Application of the numerical and visual methods to lavas of ‘unknown’ tectonic settings (Archaean greenstones and high-potash basalts) mostly gave geologically consistent results.
+Y2  - 9/8/2026
+UR  - https://doi.org/10.1093/petrology/17.1.15
+ER  - 
+","Pearce 1976","https://academic.oup.com/petrology/article-abstract/17/1/15/1447006","10.1093/petrology/17.1.15","doi","09-08-2026"
+"cabanis_lecolle_geom","Le diagramme La/10-Y/15-Nb/8: un outil pour la discrimination des séries volcaniques et la mise en évidence des processus de mélange et/ou de contamination crustale",1989,NULL,"Cabanis and Lecolle 1989","https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=6648552","0764-4450","issn","09-08-2026"
+"eby_ce_geom","Chemical subdivision of the A-type granitoids:Petrogenetic and tectonic implications",1992,"TY  - JOUR
+AU  - Eby, G. Nelson
+T1  - Chemical subdivision of the A-type granitoids:Petrogenetic and tectonic implications
+PY  - 1992
+Y1  - 1992/07/01
+DO  - 10.1130/0091-7613(1992)020<0641:CSOTAT>2.3.CO;2
+JO  - Geology
+JA  - Geology
+VL  - 20
+IS  - 7
+SP  - 641
+EP  - 644
+SN  - 0091-7613
+AB  - The A-type granitoids can be divided into two chemical groups. The first group (A1) is characterized by element ratios similar to those observed for oceanic-island basalts. The second group (A2) is characterized by ratios that vary from those observed for continental crust to those observed for island-arc basalts. It is proposed that these two types have very different sources and tectonic settings. The A1 group represents differentiates of magmas derived from sources like those of oceanic-island basalts but emplaced in continental rifts or during intraplate magmatism. The A2 group represents magmas derived from continental crust or underplated crust that has been through a cycle of continent-continent collision or island-arc magmatism.
+Y2  - 9/8/2026
+UR  - https://doi.org/10.1130/0091-7613(1992)020<0641:CSOTAT>2.3.CO;2
+ER  - ","Eby 1992","https://pubs.geoscienceworld.org/gsa/geology/article-abstract/20/7/641/205787/Chemical-subdivision-of-the-A-type-granitoids","10.1130/0091-7613(1992)020<0641:CSOTAT>2.3.CO;2","doi","09-08-2026"
+"eby_ga_geom","Chemical subdivision of the A-type granitoids:Petrogenetic and tectonic implications",1992,"TY  - JOUR
+AU  - Eby, G. Nelson
+T1  - Chemical subdivision of the A-type granitoids:Petrogenetic and tectonic implications
+PY  - 1992
+Y1  - 1992/07/01
+DO  - 10.1130/0091-7613(1992)020<0641:CSOTAT>2.3.CO;2
+JO  - Geology
+JA  - Geology
+VL  - 20
+IS  - 7
+SP  - 641
+EP  - 644
+SN  - 0091-7613
+AB  - The A-type granitoids can be divided into two chemical groups. The first group (A1) is characterized by element ratios similar to those observed for oceanic-island basalts. The second group (A2) is characterized by ratios that vary from those observed for continental crust to those observed for island-arc basalts. It is proposed that these two types have very different sources and tectonic settings. The A1 group represents differentiates of magmas derived from sources like those of oceanic-island basalts but emplaced in continental rifts or during intraplate magmatism. The A2 group represents magmas derived from continental crust or underplated crust that has been through a cycle of continent-continent collision or island-arc magmatism.
+Y2  - 9/8/2026
+UR  - https://doi.org/10.1130/0091-7613(1992)020<0641:CSOTAT>2.3.CO;2
+ER  - ","Eby 1992","https://pubs.geoscienceworld.org/gsa/geology/article-abstract/20/7/641/205787/Chemical-subdivision-of-the-A-type-granitoids","10.1130/0091-7613(1992)020<0641:CSOTAT>2.3.CO;2","doi","09-08-2026"
+"feldspar_geom","Volume 4: Framework Silicates",1963,NULL,"Deer et al. 1963","https://www.nature.com/articles/200003a0","10.1038/200003a0","doi","09-08-2026"
+"frost_and_frost_geom","A Geochemical Classification for Feldspathic Igneous Rocks",2008,"TY  - JOUR
+AU  - Frost, B.
+AU  - Frost, Carol
+PY  - 2008/11/07
+SP  - 1955
+EP  - 1969
+T1  - A Geochemical Classification for Feldspathic Igneous Rocks
+VL  - 49
+DO  - 10.1093/petrology/egn054
+JO  - Journal of Petrology
+ER  - ","Frost and Frost 2008","https://academic.oup.com/petrology/article-abstract/49/11/1955/1452558","10.1093/petrology/egn054","doi","09-08-2026"
+"meschede_geom","A method of discriminating between different types of mid-ocean ridge basalts and continental tholeiites with the Nb-Zr-Y diagram",1986,"TY  - JOUR
+T1  - A method of discriminating between different types of mid-ocean ridge basalts and continental tholeiites with the Nb-Zr-Y diagram
+AU  - Meschede, Martin
+JO  - Chemical Geology
+VL  - 56
+IS  - 3
+SP  - 207
+EP  - 218
+PY  - 1986
+DA  - 1986/10/20/
+SN  - 0009-2541
+DO  - https://doi.org/10.1016/0009-2541(86)90004-5
+UR  - https://www.sciencedirect.com/science/article/pii/0009254186900045
+AB  - Analyses of more than 1800 basaltic rocks from different geotectonic settings define a new discrimination diagram using the immobile trace elements Nb, Zr and Y. The diagram distinguishes between different types of mid-ocean ridge basalts (“MORB”, including “N-type MORB”, from normal mid-ocean ridges and “P-type MORB”, from plume-influenced regions), within-plate tholeiites (WPT), and within-plate alkali basalts (WPA). Volcanic arc basalts (VAB) plot within both WPT and N-type MORB fields and thus cannot be distinguished from these types. Ancient continental tholeiites which plot in the conventional Ti?1bZr?1bY diagram within the MORB/VAB field are clearly distinguished from N-type MORB.
+ER  - ","Meschede 1986","https://www.sciencedirect.com/science/article/abs/pii/0009254186900045","10.1016/0009-2541(86)90004-5","doi","09-08-2026"
+"mullen_geom","MnO/TiO2/P2O5: a minor element discriminant for basaltic rocks of oceanic environments and its implications for petrogenesis",1983,"TY  - JOUR
+T1  - MnO/TiO2/P2O5: a minor element discriminant for basaltic rocks of oceanic environments and its implications for petrogenesis
+AU  - Mullen, Ellen D.
+JO  - Earth and Planetary Science Letters
+VL  - 62
+IS  - 1
+SP  - 53
+EP  - 62
+PY  - 1983
+DA  - 1983/01/01/
+SN  - 0012-821X
+DO  - https://doi.org/10.1016/0012-821X(83)90070-5
+UR  - https://www.sciencedirect.com/science/article/pii/0012821X83900705
+AB  - A ternary diagram using MnO, TiO2, P2O5 can discriminate between five petrotectonic environments of basaltic rocks (45–54% SiO2). Fields for mid-ocean ridge, island arc tholeiite, island arc calc-alkaline, ocean island tholeiite, and ocean island alkalic rocks were distinguished on the basis of 507 analyses from well-defined environments. Boninites plot within island arc fields. Continental tholeiites, such as the Columbia River basalts, are high in P2O5 relative to MnO and TiO2, and overlap portions of all five oceanic fields. MnO is depleted relative to TiO2 in mid-ocean ridge analyses and may be controlled by early fractionation of olivine and/or clinopyroxene under conditions of lowfO2. In island arc rocks, MnO is enriched relative to TiO2 due to early crystallization of titanomagnetite in a high-fO2 environment. Primitive mid-ocean ridge and arc tholeiites have similar MnO/TiO2/P2O5 ratios which indicate a grossly similar parent magma. Increasingly differentiated basaltic rocks are more easily classified by the diagram. High relative abundances of TiO2 and P2O5 in ocean island rocks are consistent with their derivation from a separate source. Despite the purported high mobility of MnO, the MnO/TiO2/P2O5 discriminant diagram may be applied to unspilitized and moderately spilitized zeolite to greenschist facies greenstones with good agreement between the environment determined by MnO/TiO2/P2O5 and by other means such as trace elements, REE, or field relations.
+ER  - ","Mullen 1983","https://www.sciencedirect.com/science/article/pii/0012821X83900705","10.1016/0012-821X(83)90070-5","doi","09-08-2026"
+"pyroxene_geom","Nomenclature of Pyroxenes",1988,"TY  - JOUR
+AU  - Morimoto, N.
+PY  - 1988
+DA  - 1988/09/01
+TI  - Nomenclature of Pyroxenes
+JO  - Mineralogy and Petrology
+SP  - 55
+EP  - 76
+VL  - 39
+IS  - 1
+AB  - This is the final report on the nomenclature of pyroxenes by the Subcommittee on Pyroxenes established by the Commission on New Minerals and Mineral Names of the International Mineralogical Association. The recommendations of the Subcommittee as put forward in this report have been formally accepted by the Commission. Accepted and widely used names have been chemically defined, by combining new and conventional methods, to agree as far as possible with the consensus of present use. Twenty names are formally accepted, among which thirteen are used to represent the end-members of definite chemical compositions. In common binary solid-solution series, species names are given to the two end-members by the “50% rule”. Adjectival modifiers for pyroxene mineral names are defined to indicate unusual amounts of chemical constituents. This report includes a list of 105 previously used pyroxene names that have been formally discarded by the Commission.
+SN  - 1438-1168
+UR  - https://doi.org/10.1007/BF01226262
+DO  - 10.1007/BF01226262
+ID  - Morimoto1988
+ER  - ","Morimoto 1988","https://link.springer.com/article/10.1007/BF01226262","10.1007/BF01226262","doi","09-08-2026"
+"streckeisen_geom","Classification and nomenclature of igneous rocks",1967,NULL,"Streckeisen 1967",NULL,NULL,NULL,"09-08-2026"
+"wood_geom","The application of a ThHfTa diagram to problems of tectonomagmatic classification and to establishing the nature of crustal contamination of basaltic lavas of the British Tertiary Volcanic Province",1980,"TY  - JOUR
+T1  - The application of a ThHfTa diagram to problems of tectonomagmatic classification and to establishing the nature of crustal contamination of basaltic lavas of the British Tertiary Volcanic Province
+AU  - Wood, David A.
+JO  - Earth and Planetary Science Letters
+VL  - 50
+IS  - 1
+SP  - 11
+EP  - 30
+PY  - 1980
+DA  - 1980/10/01/
+SN  - 0012-821X
+DO  - https://doi.org/10.1016/0012-821X(80)90116-8
+UR  - https://www.sciencedirect.com/science/article/pii/0012821X80901168
+AB  - The recently proposed [1] ThHfTa diagram is shown in the light of considerable additional data to be a sensitive indicator of the tectonic environment in which an unknown lava (basic of silicic) was erupted. With the presently available data it is now possible to distinguish calc-alkaline lavas from island arc tholeiites. Some of the fields of the different tectonic environments have been enlarged and the boundaries between the fields modified slightly, but the conclusions drawn by Wood et al. [1] are still supported by the data. It is not possible to discriminate between E-type MORB andtholeiitic within-plate basalts using this diagram, but when used in conjunction with the ZrTiY triangular diagram [23] (as originally suggested [1]) these magma types can be distinguished. The effects of different types of bulk lower and upper crustal contamination of a within-plate alkali basalt on the Th, Hf, Ta and radiogenic isotope concentrations of the residual liquids are calculated in detail. The ratios of ThHfTa are shown to be extremely sensitive to crustal contamination processes. Data published by Thompson and co-workers [2,5] for the Tertiary lavas of Skye, Scotland, are used to illustrate the complexity of crustal contamination and develop a petrogenic model for these lavas. These calculations suggest that the use of isotopic data alone to estimate the extent of crustal contamination a particular lava has suffered is fraught with errors and should be interpreted with care.
+ER  - ","Wood 1980","https://www.sciencedirect.com/science/article/pii/0012821X80901168","10.1016/0012-821X(80)90116-8","doi","09-08-2026"
