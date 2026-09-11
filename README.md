@@ -3,14 +3,18 @@
 
 ## The library content
 What is the library and what is in it.
+
 ### Class_library schema
 
+
 ### Citing the library
-Cite our work!
+If using the geochemical citation library, you should cite our work as given here (code and publication):
 
-Cite the original diagram references included in the citation table. 
 
-There the references are also available in RIS format for easy format conversion through reference managers (e.g. Zotero).
+The references are also provided in BibTeX and RIS format in the reference list below.
+
+Furthermore, you should cite the original diagram references included in the citation table. 
+The original references are also available in the citation_table in RIS format (citation_table.ris column) for easy format conversion through reference managers (e.g. Zotero).
 
 ## Installing the library
 ### *Important Requirements!*
@@ -22,10 +26,16 @@ CREATE EXTENSION postgis;
 The classification library was first written under Postgres version 18.1 and PostGIS version 3.6.0.
 
 ### From the SQL dump
+To install the classification library, you have to restore the *class_library_dump.sql* within a postgres database. For example from the pgAdmin 4 GUI, right click on the database, select "Restore..." and navigate to the dump file.
 
-#### Restore the dump
+The restore procedure constructs the *class_library* schema within your postgres database, and thus assumes such a schema does not already exist. If it does, you might get an error and we recommend to delete the old schema prior to a restore installation.
 
-#### Create indexes
+Restore creates the tables and functions, but not the geom GIST indexes and label indexes on the tables for the classification functions to run more efficiently.
+To create (if not exists) the indexes after a successful restore, run the included procedure through the following SQL command:
+```
+CALL class_library.create_indexes();
+```
+The indexes should now be visible under indexes in each table.
 
 ### From the class-library extension
 Coming soon...
