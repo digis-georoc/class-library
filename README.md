@@ -12,7 +12,7 @@ All classification schemes included in our library and their references are cont
 Each classification scheme is included in three forms: 
 1.	Classification scheme coordinates of boundaries as a table including the label of the field those coordinates outline (e.g. table class_library.tas).
 2.	The geometric polygon version of the labelled fields, containing the suffix “_geom” in the table name (e.g. table class_library.tas_geom).
-3.	The classification scheme SQL function, used to call the classification labels of sample composition within a SQL query (e.g. table class_library.tas_class(…)).
+3.	The classification scheme SQL function, used to call the classification labels of sample composition within a SQL query (e.g. table class_library.tas_class).
 
 ### Citing the library
 If using the geochemical citation library, you should cite our work as given here (code and publication):
