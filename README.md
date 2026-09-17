@@ -42,12 +42,20 @@ Coming soon...
 
 ## Using the library
 ### Classification of samples demo
-Retrieving the diagram to plot in the background of a figure can simply be done by calling geom table, for example from the TAS diagram:
+Retrieving the diagram polygons to plot in the background of a figure can simply be done by calling geom table, for example from the TAS diagram:
 ```
-SELECT * FROM class_library.tas_geom
+SELECT * FROM class_library.tas_geom;
 ```
 
-To classify 
+To classify geochemical samples within the database, call the classification function with the columns from the sample data as input parameters. For example using the Aeolian precompiled dataset (*aeolian_example*) and the *tas_class* function of within the *class_library*:
+
+```
+SELECT class_library.tas_class("SIO2_wtpct", "NA2O_wtpct", "K2O_wtpct", TRUE), * FROM class_library.aeolian_example;
+```
+This will resort in a column with the volcanic TAS diagram labels next to the sample compositions. The input parameters names and types of the *class_library* functions have to match the order in the function definition, as per SQL convention. 
+This information is shown in the function overview of the *class_library* schema. For the tas_class, these are: 
+
+```class_library.tas_class(p_sio2 double precision, p_na2o double precision, p_k2o double precision, p_volcanic boolean)``` 
 
 Jupyter and R notebooks coming soon...
 
@@ -55,12 +63,12 @@ Jupyter and R notebooks coming soon...
 Jupyter and R notebooks coming soon...
 
 ## References
-- Our poster presentation at GeoMinBochum 2026.
-- Our paper when sublished
-- Geoplotters.com
-- GEOROC precomplied file Aleutian Arc
-- Postgres
-- PostGIS
+- Our poster presentation from GeoMinBochum 2026.
+- Our paper when published
+- Sheldrick, T. (2026, August 24). Geoplotters: Geochemical discriminant diagram templates. Rock classification and series diagrams. Geoplotters. https://geoplotters.com/
+- DIGIS Team, 2026, " 2025-12-PVFZCE_AEOLIAN_ARC.csv", GEOROC Compilation: Convergent Margins, https://doi.org/10.25625/PVFZCE, Goettingen Research Online / Data, V1. 
+- Stonebraker, M., & Rowe, L. A. (1986). The design of POSTGRES. ACM SIGMOD Record, 15(2), 340–355. https://doi.org/10.1145/16856.16888. https://www.postgresql.org
+- PostGIS Project Steering Committee and others. (2026). PostGIS, spatial and geographic objects for postgreSQL (Version 3.6.5) [Computer software]. https://postgis.net
 
 ### BibTeX reference format
 ```
