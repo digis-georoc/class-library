@@ -8,8 +8,8 @@ Therefore, we use the PostGIS extension which is built for handling geometric (n
 The classification schemes included was guided by the community resource Geoplotters (Sheldrick, 2026), and also includes the geological provinces of Hasterok et al. (2022). 
 
 ### *Class_library* schema
-All classification schemes included in our library and their references are contained within a single database namespace schema (ie. “database folder”), called *class_library*.
-Each classification scheme is included in three forms in the class_library: 
+All classification schemes included in our library and their references are contained within a single database schema, called *class_library*.
+Each classification scheme is included in three forms: 
 1.	Classification scheme coordinates of boundaries as a table including the label of the field those coordinates outline (e.g. table class_library.tas).
 2.	The geometric polygon version of the labelled fields, containing the suffix “_geom” in the table name (e.g. table class_library.tas_geom).
 3.	The classification scheme SQL function, used to call the classification labels of sample composition within a SQL query (e.g. table class_library.tas_class(…)).
@@ -20,13 +20,13 @@ If using the geochemical citation library, you should cite our work as given her
 
 The references are also provided in BibTeX and RIS (reference information system) format in the reference list below.
 
-Furthermore, you should cite the original diagram references included in the citation table. 
+Furthermore, you must cite the original diagram references included in the citation table. 
 The original references are also available in the *citation_table* in RIS format (*citation_table.ris* column) for easy format conversion through reference managers (e.g. Zotero).
 
 ## Installing the library
 ### *Important Requirements!*
 The classification library uses the PostGIS extension to make the geometries for the diagrams and the classification functions (which uses geometric intercepts).
-The library assumes PostGIS is already installed, if not most Postgres installations come with the PostGIS extention, and it can be activated using this SQL command within a Postgres database:
+The library assumes PostGIS is already installed, if not most Postgres installations come with the PostGIS extension, and it can be activated using this SQL command within a Postgres database:
 ```
 CREATE EXTENSION postgis;
 ```
