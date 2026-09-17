@@ -42,10 +42,17 @@ Coming soon...
 
 ## Using the library
 ### Classification of samples demo
-Jupyter notebook
+Retrieving the diagram to plot in the background of a figure can simply be done by calling geom table, for example from the TAS diagram:
+```
+SELECT * FROM class_library.tas_geom
+```
+
+To classify 
+
+Jupyter and R notebooks coming soon...
 
 ### Adding diagrams demo
-Jupyter notebook
+Jupyter and R notebooks coming soon...
 
 ## References
 - Our poster presentation at GeoMinBochum 2026.
