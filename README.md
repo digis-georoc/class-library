@@ -2,10 +2,17 @@
 *A geochemical classification diagram library for SQL databases written natively in PostgreSQL using PostGIS.*
 
 ## The library content
-What is the library and what is in it.
+We present an open PostgreSQL geochemical classification library originally built for the GEOROC database (Geochemistry of Rocks of the Oceans and Continents, www.georoc.eu).
+Most geochemical diagram-based classification schemes are based on line or polygon geometries outlining the fields. 
+Therefore, we use the PostGIS extension which is built for handling geometric (non-projected) and geospatial (with geographical projection) data and functions to make the geometric tables and intersect functions for the classification schemes. 
+The classification schemes included was guided by the community resource Geoplotters (Sheldrick, 2026), and also includes the geological provinces of Hasterok et al. (2022). 
 
 ### *Class_library* schema
-
+All classification schemes included in our library and their references are contained within a single database namespace schema (ie. “database folder”), called *class_library*.
+Each classification scheme is included in three forms in the class_library: 
+1.	Classification scheme coordinates of boundaries as a table including the label of the field those coordinates outline (e.g. table class_library.tas).
+2.	The geometric polygon version of the labelled fields, containing the suffix “_geom” in the table name (e.g. table class_library.tas_geom).
+3.	The classification scheme SQL function, used to call the classification labels of sample composition within a SQL query (e.g. table class_library.tas_class(…)).
 
 ### Citing the library
 If using the geochemical citation library, you should cite our work as given here (code and publication):
@@ -69,6 +76,7 @@ Jupyter and R notebooks coming soon...
 - DIGIS Team, 2026, " 2025-12-PVFZCE_AEOLIAN_ARC.csv", GEOROC Compilation: Convergent Margins, https://doi.org/10.25625/PVFZCE, Goettingen Research Online / Data, V1. 
 - Stonebraker, M., & Rowe, L. A. (1986). The design of POSTGRES. ACM SIGMOD Record, 15(2), 340–355. https://doi.org/10.1145/16856.16888. https://www.postgresql.org
 - PostGIS Project Steering Committee and others. (2026). PostGIS, spatial and geographic objects for postgreSQL (Version 3.6.5) [Computer software]. https://postgis.net
+- Hasterok, D., Halpin, J. A., Collins, A. S., Hand, M., Kreemer, C., Gard, M. G., & Glorie, S. (2022). New Maps of Global Geological Provinces and Tectonic Plates. Earth-Science Reviews, 231, 104069. https://github.com/dhasterok/global_tectonics 
 
 ### BibTeX reference format
 ```
