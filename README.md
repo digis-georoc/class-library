@@ -16,6 +16,7 @@ Each classification scheme is included in three forms:
 
 ### Citing the library
 If using the geochemical citation library, you should cite our work as given here (code and publication):
+
 Alfke, L., Traun, M. K., Kallas, L., Willbold, M., & Wörner, G. (2026). A PostGIS approach to database-integrated rock classification [Computer software]. Zenodo. GeoMinBochum, Ruhr University Bochum, Bochum, Germany. https://doi.org/10.5281/zenodo.22830906
 
 The references are also provided in BibTeX and RIS (reference information system) format in the reference list below.
