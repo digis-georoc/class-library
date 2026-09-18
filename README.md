@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/1364354551.svg)](https://doi.org/10.5281/zenodo.22831411)
+
+
 # GEOROC's classification library
 *A geochemical classification diagram library for SQL databases written natively in PostgreSQL using PostGIS.*
 
