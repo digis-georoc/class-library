@@ -70,8 +70,8 @@ Jupyter and R notebooks coming soon...
 Jupyter and R notebooks coming soon...
 
 ## References
-- Our poster presentation from GeoMinBochum 2026.
 - Our paper when published
+- Alfke, L., Traun, M. K., Kallas, L., Willbold, M., & Wörner, G. (2026). A PostGIS approach to database-integrated rock classification [Computer software]. Zenodo. GeoMinBochum, Ruhr University Bochum, Bochum, Germany. https://doi.org/10.5281/zenodo.22830906
 - Sheldrick, T. (2026, August 24). Geoplotters: Geochemical discriminant diagram templates. Rock classification and series diagrams. Geoplotters. https://geoplotters.com/
 - DIGIS Team, 2026, " 2025-12-PVFZCE_AEOLIAN_ARC.csv", GEOROC Compilation: Convergent Margins, https://doi.org/10.25625/PVFZCE, Goettingen Research Online / Data, V1. 
 - Stonebraker, M., & Rowe, L. A. (1986). The design of POSTGRES. ACM SIGMOD Record, 15(2), 340–355. https://doi.org/10.1145/16856.16888. https://www.postgresql.org
@@ -79,10 +79,36 @@ Jupyter and R notebooks coming soon...
 
 ### BibTeX reference format
 ```
-hello world
+@software{alfke_2026_22830906,
+  author       = {Alfke, Lars and
+                  Traun, Marie Katrine and
+                  Kallas, Leander and
+                  Willbold, Matthias and
+                  Wörner, Gerhard},
+  title        = {A PostGIS approach to database-integrated rock
+                   classification
+                  },
+  month        = sep,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22830906},
+  url          = {https://doi.org/10.5281/zenodo.22830906},
+}
 ```
 
 ### RIS reference format
 ```
-hello world
+TY  - COMP
+TI  - A PostGIS approach to database-integrated rock classification
+AU  - Alfke, Lars
+AU  - Traun, Marie Katrine
+AU  - Kallas, Leander
+AU  - Willbold, Matthias
+AU  - Wörner, Gerhard
+DA  - 2026/09//
+PY  - 2026
+DO  - 10.5281/zenodo.22830906
+PB  - Zenodo
+UR  - https://doi.org/10.5281/zenodo.22830906
+ER  - 
 ```
