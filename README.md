@@ -17,7 +17,7 @@ Each classification scheme is included in three forms:
 2.	The geometric polygon version of the labelled fields, containing the suffix “_geom” in the table name (e.g. table class_library.tas_geom).
 3.	The classification scheme SQL function, used to call the classification labels of sample composition within a SQL query (e.g. table class_library.tas_class).
 
-### Citing the library
+### Terms and Conditions
 If using the geochemical citation library, you should cite our work as given here (code and publication):
 
 Alfke, L., Traun, M. K., Kallas, L., Willbold, M., & Wörner, G. (2026). A PostGIS approach to database-integrated rock classification (Version v0.1-beta) [Computer software]. Zenodo. GeoMinBochum, Ruhr University, Bochum, Germany. https://doi.org/10.5281/zenodo.22831412
