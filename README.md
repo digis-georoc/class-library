@@ -20,7 +20,7 @@ Each classification scheme is included in three forms:
 ### Citing the library
 If using the geochemical citation library, you should cite our work as given here (code and publication):
 
-Alfke, L., Traun, M. K., Kallas, L., Willbold, M., & Wörner, G. (2026). A PostGIS approach to database-integrated rock classification [Computer software]. Zenodo. GeoMinBochum, Ruhr University Bochum, Bochum, Germany. https://doi.org/10.5281/zenodo.22830906
+Alfke, L., Traun, M. K., Kallas, L., Willbold, M., & Wörner, G. (2026). A PostGIS approach to database-integrated rock classification (Version v0.1-beta) [Computer software]. Zenodo. GeoMinBochum, Ruhr University, Bochum, Germany. https://doi.org/10.5281/zenodo.22831412
 
 The references are also provided in BibTeX and RIS (reference information system) format in the reference list below.
 
@@ -75,7 +75,7 @@ Jupyter and R notebooks coming soon...
 
 ## References
 - Our paper when published
-- Alfke, L., Traun, M. K., Kallas, L., Willbold, M., & Wörner, G. (2026). A PostGIS approach to database-integrated rock classification [Computer software]. Zenodo. GeoMinBochum, Ruhr University Bochum, Bochum, Germany. https://doi.org/10.5281/zenodo.22830906
+- Alfke, L., Traun, M. K., Kallas, L., Willbold, M., & Wörner, G. (2026). A PostGIS approach to database-integrated rock classification (Version v0.1-beta) [Computer software]. Zenodo. GeoMinBochum, Ruhr University, Bochum, Germany. https://doi.org/10.5281/zenodo.22831412
 - Sheldrick, T. (2026, August 24). Geoplotters: Geochemical discriminant diagram templates. Rock classification and series diagrams. Geoplotters. https://geoplotters.com/
 - DIGIS Team, 2026, " 2025-12-PVFZCE_AEOLIAN_ARC.csv", GEOROC Compilation: Convergent Margins, https://doi.org/10.25625/PVFZCE, Goettingen Research Online / Data, V1. 
 - Stonebraker, M., & Rowe, L. A. (1986). The design of POSTGRES. ACM SIGMOD Record, 15(2), 340–355. https://doi.org/10.1145/16856.16888. https://www.postgresql.org
@@ -83,7 +83,7 @@ Jupyter and R notebooks coming soon...
 
 ### BibTeX reference format
 ```
-@software{alfke_2026_22830906,
+@software{alfke_2026_22831412,
   author       = {Alfke, Lars and
                   Traun, Marie Katrine and
                   Kallas, Leander and
@@ -95,8 +95,9 @@ Jupyter and R notebooks coming soon...
   month        = sep,
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.22830906},
-  url          = {https://doi.org/10.5281/zenodo.22830906},
+  version      = {v0.1-beta},
+  doi          = {10.5281/zenodo.22831412},
+  url          = {https://doi.org/10.5281/zenodo.22831412},
 }
 ```
 
@@ -111,8 +112,8 @@ AU  - Willbold, Matthias
 AU  - Wörner, Gerhard
 DA  - 2026/09//
 PY  - 2026
-DO  - 10.5281/zenodo.22830906
+DO  - 10.5281/zenodo.22831412
 PB  - Zenodo
-UR  - https://doi.org/10.5281/zenodo.22830906
+UR  - https://doi.org/10.5281/zenodo.22831412
 ER  - 
 ```
