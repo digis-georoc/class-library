@@ -27,6 +27,8 @@ The references are also provided in BibTeX and RIS (reference information system
 Furthermore, you must cite the original diagram references included in the *citation* table in the *class_library* schema. 
 The original references are also available in the *citation* in RIS format (*citation_table.ris* column) for easy format conversion through reference managers (e.g. Zotero).
 
+This work is under MIT and CC-BY 4.0 license.
+
 ## Installing the library
 ### *Important Requirements!*
 The classification library uses the PostGIS extension to make the geometries for the diagrams and the classification functions (which uses geometric intercepts).
