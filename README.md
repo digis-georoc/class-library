@@ -64,7 +64,7 @@ To classify geochemical samples within the database, call the classification fun
 SELECT class_library.tas_class("SIO2_wtpct", "NA2O_wtpct", "K2O_wtpct", TRUE), * FROM class_library.aeolian_example;
 ```
 This will result in a column with the volcanic TAS diagram labels next to the sample compositions. The input parameters names and types of the *class_library* functions have to match the order in the function definition, as per SQL convention. 
-This information is shown in the function overview of the *class_library* schema. For the tas_class, these are: 
+This information is shown in the function overview of the *class_library* schema. Example for the TAS diagram function, *tas_class*: 
 
 ```class_library.tas_class(p_sio2 double precision, p_na2o double precision, p_k2o double precision, p_volcanic boolean)``` 
 
