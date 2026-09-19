@@ -41,12 +41,12 @@ To install the classification library, you have to download and then restore the
 
 The restore procedure constructs the *class_library* schema within your postgres database, and thus assumes such a schema does not already exist. If it does, you might get an error and we recommend to delete the old schema prior to a restore installation.
 
-Restore creates the tables and functions, but not the geom GIST indexes and label indexes on the tables for the classification functions to run more efficiently.
-To create (if not exists) the indexes after a successful restore, run the included procedure through the following SQL command:
+Restore should create the functions and tables with indexes, for the classification functions to run more efficiently.
+However, in case the indexes are missing after a restore (for whatever reason), they can be created (if not exists) by running the included procedure with the following SQL command:
 ```
 CALL class_library.create_indexes();
 ```
-The indexes should now be visible under indexes in each table.
+The indexes are visible under the indexes-folder for each table.
 
 ### From the class-library extension
 Coming soon...
