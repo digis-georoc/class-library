@@ -18,14 +18,14 @@ Each classification scheme is included in three forms:
 3.	The classification scheme SQL function, used to call the classification labels of sample composition within a SQL query (e.g. table class_library.tas_class).
 
 ### Terms and Conditions
-If using the geochemical citation library, you should cite our work as given here (code and publication):
+When using our geochemical classification library, you should cite our work as given here (code and publication):
 
 Alfke, L., Traun, M. K., Kallas, L., Willbold, M., & Wörner, G. (2026). A PostGIS approach to database-integrated rock classification (Version v0.1-beta) [Computer software]. Zenodo. GeoMinBochum, Ruhr University, Bochum, Germany. https://doi.org/10.5281/zenodo.22831412
 
 The references are also provided in BibTeX and RIS (reference information system) format in the reference list below.
 
-Furthermore, you must cite the original diagram references included in the citation table. 
-The original references are also available in the *citation_table* in RIS format (*citation_table.ris* column) for easy format conversion through reference managers (e.g. Zotero).
+Furthermore, you must cite the original diagram references included in the *citation* table in the *class_library* schema. 
+The original references are also available in the *citation* in RIS format (*citation_table.ris* column) for easy format conversion through reference managers (e.g. Zotero).
 
 ## Installing the library
 ### *Important Requirements!*
