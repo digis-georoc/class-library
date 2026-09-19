@@ -41,8 +41,8 @@ To install the classification library, you have to download and then restore the
 
 The restore procedure constructs the *class_library* schema within your postgres database, and thus assumes such a schema does not already exist. If it does, you might get an error and we recommend to delete the old schema prior to a restore installation.
 
-Restore should create the functions and tables with indexes, for the classification functions to run more efficiently.
-However, in case the indexes are missing after a restore (for whatever reason), they can be created (if not exists) by running the included procedure with the following SQL command:
+Restore should create the functions and tables with indexes, the indexes allow the classification functions to run more efficiently.
+However, in case the indexes are missing after a installation (for whatever reason), they can be created (if not exists) by running the included procedure with the following SQL command:
 ```
 CALL class_library.create_indexes();
 ```
